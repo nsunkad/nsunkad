@@ -8,8 +8,6 @@
 <br>
 
 ## Let's connect!
-
-<h3 align="left">Social Media</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nsunkad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nsunkad" height="30" width="40" /></a>
 </p>
