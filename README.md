@@ -1,6 +1,6 @@
 <h1 align="center"> 👩‍💻 Hi, I'm Nitya! </h1>
 
-<h3 align="center"> I'm a computer science major at the University of Illinois at Urbana-Champaign </h3>
+<h3 align="center"> I'm a Computer Science major at the University of Illinois at Urbana-Champaign </h3>
 
 ## Languages
 
