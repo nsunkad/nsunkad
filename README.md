@@ -1,4 +1,4 @@
-<h1 align="center"> 👩‍💻 Hi, I'm Nitya! </h1>
+<h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=0077B5&background=FFFFFF00&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Hi%2C+I'm+Nitya!)](https://git.io/typing-svg) </h1>
 
 <h3 align="center"> I'm a Computer Science major at the University of Illinois at Urbana-Champaign </h3>
 
