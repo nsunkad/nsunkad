@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bb9af7&center=true&vCenter=true&lines=Hi,+I'm+Nitya!;Welcome%20to%20my%20Github%20page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&size=30&color=0077B5&center=true&vCenter=true&lines=Hi,+I'm+Nitya!;Welcome%20to%20my%20Github%20page!)](https://git.io/typing-svg)
 </div>
 
 <h3 align="center"> I'm a Computer Science major at the University of Illinois at Urbana-Champaign </h3>
