@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"> Hey, I'm Nitya! 👩🏽‍💻 </h3>
+<h1 align="center"> Hey, I'm Nitya! 👩🏽‍💻 </h1>
 
 
 <h3 align="center"> I'm a Computer Science major at the University of Illinois at Urbana-Champaign </h3>
