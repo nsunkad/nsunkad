@@ -1,7 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&color=0077B5&background=FFFFFF00&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Hi%2C+I'm+Nitya!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-</div>
+<h1 align="center"> Hey, I'm Nitya! 👩🏽‍💻 </h3>
+
 
 <h3 align="center"> I'm a Computer Science major at the University of Illinois at Urbana-Champaign </h3>
 
