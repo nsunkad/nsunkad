@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1 align="center"> Hey, I'm Nitya! 👩🏽‍💻 </h1>
+# Hey, I'm Nitya! 👩🏽‍💻
 
 
-<h3 align="center"> I'm a Computer Science major at the University of Illinois at Urbana-Champaign </h3>
+## I'm a Computer Science major at the University of Illinois at Urbana-Champaign
 
 ## Languages
 
